@@ -9,6 +9,15 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url": "https://github.com/Garruxx/Mr-Trance-Theme.git",
+    "type": "git"
+  },
+  "icon": "icon.png",
+  "author": {
+    "name": "Jhon Guerrero (Garrux)",
+    "email": "garruxx@gmail.com",
+  },
   "contributes": {
     "themes": [
       {
@@ -17,5 +26,6 @@
         "path": "./themes/Mr Trance (Garrux)-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "garrux"
 }
