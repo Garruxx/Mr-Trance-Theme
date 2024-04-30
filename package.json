@@ -1,0 +1,21 @@
+{
+  "name": "mr-trance",
+  "displayName": "Mr-trance",
+  "description": "Garrux theme, MR Trance, neon, pink and purple",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mr Trance (Garrux)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mr Trance (Garrux)-color-theme.json"
+      }
+    ]
+  }
+}
