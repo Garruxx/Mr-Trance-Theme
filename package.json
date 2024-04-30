@@ -16,7 +16,7 @@
   "icon": "icon.png",
   "author": {
     "name": "Jhon Guerrero (Garrux)",
-    "email": "garruxx@gmail.com",
+    "email": "garruxx@gmail.com"
   },
   "contributes": {
     "themes": [
